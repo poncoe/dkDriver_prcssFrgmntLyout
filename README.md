@@ -16,6 +16,6 @@ english :
 this app is not released publicly via playstore or dkantin website, it's just this application is internal and used for the drivers dkantin.
 ui / ux in this app does not I like the original, just as a learning course: D
 
-# Screenshoot
+# Screenshoot (gif)
 
 ![alt text](https://github.com/poncoe/dkDriver_prcssFrgmntLyout/blob/master/app/src/main/res/drawable/dk_driver_process.gif)
