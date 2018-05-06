@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <!-- Margin to the left and right of the search box. -->
+    <!-- Margin above the search box. -->
+    <!-- Margin below the search box. -->
+    <!-- Search box interior padding - left -->
+    <!-- Search box interior padding - right -->
+
+    <!-- Padding around the icon in the search box. -->
+
+    <!-- Size of the icon (voice search, back arrow) in the search box. -->
+    <!-- Size of the close icon.
+         Because it expands diagonally, it needs to be shrunk to look relatively the same size -->
+    <!-- Padding around back arrow icon in the search box -->
+    <!-- Padding around close icon in the search box -->
+    <!-- Left margin of the text field in the search box. -->
+    <!-- Search box text size -->
+
+    <!-- Approx Size of the layout. This is not used anywhere in layouts
+            but can be used to give margin on the main activity. -->
+
+</resources>
